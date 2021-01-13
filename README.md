@@ -7,7 +7,7 @@
 
 
 
-![Google Homepage Clone](https://user-images.githubusercontent.com/64719808/104402223-026ffa80-5580-11eb-86ac-0eacbc63690c.png)
+![Google Homepage Clone](Images/google-homepage-clone.png)
 
 
 ### Tools
