@@ -1,0 +1,146 @@
+@import url(//db.onlinewebfonts.com/c/871d533b4d0e97802bef1034b639eab6?family=Catull);
+
+#container {
+    width: 40.5%;
+    margin: 100px auto;
+}
+
+.header {
+    text-align: center;   
+}
+
+.header > h1 {
+    margin: 0 auto;
+    font-family: "Catull"; src: url("//db.onlinewebfonts.com/t/871d533b4d0e97802bef1034b639eab6.eot");
+    font-size: 70px;
+}
+
+ .G {
+    color: #4285F4;
+}
+
+.o1 {
+   color: #EA4335; 
+}
+
+.o2 {
+    color: #FBBC05;
+}
+
+.g {
+    color: #4285F4;
+}
+
+.l {
+   color: #34A853; 
+}
+
+.e {
+    color: #EA4335;
+}
+
+.header > small {
+    font-size: 12px;
+    position: relative;
+    left: 92px;
+    top: -18.5px;
+    color: darkslategrey;
+}
+
+.submit {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.searchbar {
+    margin-top: 6px;
+    position: relative;
+    left: -3.5px;
+    width: 100%;
+    height: 18px;
+}
+
+.main {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.third {
+    position: relative;
+    top: 7px;
+    left: -7px;
+    display: inline-block;
+    color: white;
+    font-size: small;
+    text-decoration: none;
+    background-color: #4285F4;
+    float: right;
+    padding: 10px;
+}
+
+.navigation {
+    position: relative;
+    top: 5px;
+    padding: 10px;
+    text-align: end;
+}
+
+
+.first {
+    padding: 10px;
+    color: darkslategrey;
+    text-decoration: none;
+}
+
+.imp1 {
+    position: relative;
+    left: 9px;
+}
+
+.imp3 {
+    position: relative;
+    left: -10px;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+.second {
+    position: relative;
+    left: -10px;
+    padding: 10px;
+    color: darkslategrey; 
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.second > .one {
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+.second > .two {
+    position: relative;
+    top: -20px;
+    left: -10px;
+
+}
+
+.second > .three {
+    position: relative;
+    top: -30px;
+    left: -47.6px;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+footer > p > small > a {
+    text-decoration: none;
+}
