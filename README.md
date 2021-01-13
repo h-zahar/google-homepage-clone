@@ -1,5 +1,8 @@
 # Google Homepage Clone
 
+## *Short Intro*
+  A dummy Google Homepage 2014, made with HTML5 and CSS3.
+
 ## *Preview of the Webpage*
 
 
