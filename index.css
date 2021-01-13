@@ -10,6 +10,7 @@
 }
 
 .header > h1 {
+    pointer-events: none;
     margin: 0 auto;
     font-family: "Catull"; src: url("//db.onlinewebfonts.com/t/871d533b4d0e97802bef1034b639eab6.eot");
     font-size: 70px;
