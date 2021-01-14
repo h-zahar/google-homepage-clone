@@ -7,7 +7,7 @@
 
 
 
-![Google Homepage Clone](Images/google-homepage-clone.png)
+![Google Homepage Clone Preview](https://github.com/iFall-iFail/google-homepage-clone/blob/main/Images/google-homepage-clone.png)
 
 
 ### Tools
