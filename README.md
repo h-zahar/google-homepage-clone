@@ -1,5 +1,7 @@
 # Google Homepage Clone
 
+## Live Demo: <a href="https://ifall-ifail.github.io/google-homepage-clone/"> Click Here </a>
+
 ## *Short Intro*
   A dummy Google Homepage 2014, made with HTML5 and CSS3.
 
